@@ -18,10 +18,10 @@ DJSng's Toolkit (named after a private vanilla modpack started by the founder mo
 
 # Browse the archives
 
-| Page | St. | % | Description |
-| --- | --- | --- | --- |
-| [Jericho's Library](https://github.com/DJSng-Toolkit/the-library) | 🔃 | ~20% | My own personal collection of websites and software I've collected over the years, similar to "Ivyswell's Tavern" and many other NeoCities users' resources page.  |
-| [Toolkit](https://github.com/DJSng-Toolkit/Toolkit) | 🔃 | ~10% | A bundle of resources for gamers, focused on modding. |
+| Page | St. | % | Description | Notes | 
+| --- | --- | --- | --- | --- |
+| [Jericho's Library](https://github.com/DJSng-Toolkit/the-library) | 🔃 | ~20% | A replacement for #resources | Inspired by "Ivyswell's Tavern" and many other NeoCities users' resources pages |
+| [Toolkit](https://github.com/DJSng-Toolkit/Toolkit) | 🔃 | ~10% | A bundle of resources for gamers, focused on modding. | Most active section. |
 
 | Icon | Meaning |
 | --- | :---: |
