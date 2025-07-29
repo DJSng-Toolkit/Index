@@ -18,11 +18,7 @@ DJSng's Toolkit (named after a private vanilla modpack started by the founder mo
 
 # Browse the archives
 
-| Page | St. | % | Description | Notes | 
-| --- | --- | --- | --- | --- |
-| [Jericho's Library](https://github.com/DJSng-Toolkit/the-library) | 🔃 | ~20% | A replacement for #resources | Inspired by "Ivyswell's Tavern" and many other NeoCities users' resources pages |
-| [Toolkit](https://github.com/DJSng-Toolkit/Toolkit) | 🔃 | ~10% | A bundle of resources for gamers, focused on modding. | Most active section. |
-
+## Guide
 | Icon | Meaning |
 | --- | :---: |
 | 🔃 | Actively maintained |
@@ -30,6 +26,17 @@ DJSng's Toolkit (named after a private vanilla modpack started by the founder mo
 | ⚠ | Work in progress (or outdated) |
 | 🚧 | Very early WIP |
 | ❌ | Not started |
+
+## Resources
+| Page | St. | % | Description | Notes | 
+| --- | --- | --- | --- | --- |
+| [Jericho's Library](https://github.com/DJSng-Toolkit/the-library) | 🔃 | ~20% | A replacement for #resources | Inspired by "Ivyswell's Tavern" and many other NeoCities users' resources pages |
+| [Toolkit](https://github.com/DJSng-Toolkit/Toolkit) | 🔃 | ~10% | A bundle of resources for gamers, focused on modding. | Most active section. |
+
+## Side Projects
+| Page | St. | Description |
+| --- | --- | --- |
+| [DJSng's Tips](https://github.com/DJSng-Toolkit/Tips) | 🔃 | A resource pack for Darkhax's "Tips" mod, adding more tips themed after DJSng's Toolkit and other fun facts about DJSng's projects, both public and private. Intended for members of the private SMP "Ashfield". |
 
 # Licenses
 The majority of Toolkit's resources are available under Unlicense, which you can read more about [here](LICENSE).  
