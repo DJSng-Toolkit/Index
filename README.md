@@ -38,6 +38,11 @@ DJSng's Toolkit (named after a private vanilla modpack started by the founder mo
 | ------ | --- | --- |
 | [DJSng's Tips](https://github.com/DJSng-Toolkit/Tips) | 🔃 | An addon for Darkhax's "Tips", based on DJSng trivia. |
 
+# As featured on...
+- 07/31/25&nbsp; [**Ivyswell Tavern - Resources**]
+  As a "For everyone..." resource,
+  miscelaneous section
+
 # Licenses
 The majority of Toolkit's resources are available under Unlicense, which you can read more about [here](LICENSE).  
 The only exception to this rule is [Toolkit](https://github.com/DJSng-Toolkit/Toolkit)), which is licensed under the MIT license.
