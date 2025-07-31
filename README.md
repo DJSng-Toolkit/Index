@@ -39,7 +39,7 @@ DJSng's Toolkit (named after a private vanilla modpack started by the founder mo
 | [DJSng's Tips](https://github.com/DJSng-Toolkit/Tips) | 🔃 | An addon for Darkhax's "Tips", based on DJSng trivia. |
 
 # As featured on...
-- 07/31/25&nbsp; [**Ivyswell Tavern - Resources**]
+- **07/31/25**&nbsp; [**Ivyswell Tavern - Resources**](https://ivyswell-tavern.neocities.org/resources)  
   As a "For everyone..." resource,
   miscelaneous section
 
