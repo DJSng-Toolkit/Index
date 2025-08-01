@@ -15,7 +15,7 @@ This bundle of resources is inspired by many projects and community made resourc
 * TheUsefulLists
 * "Awesome" list projects on GitHub
 * ...and many more!
-* 
+
 # Guide
 | Icon | Meaning |
 | --- | :---: |
@@ -36,7 +36,7 @@ If you just want my personal list of resources, check out Jericho's Library. If 
 | Page | St. | % | Description |
 | ------ | --- | --- | --- |
 | [Jericho's Library](https://github.com/DJSng-Toolkit/the-library) | 🔃 | ~20% | A list of resources I have compiled over the years. Originally featured on my Neocities and SpaceHey. |
-| [Toolbox](https://github.com/DJSng-Toolkit/Toolkit) | 🔃 | ~10% | Mods and tools for various video games, with a wiki on the side for notes. |
+| [Toolbox](https://github.com/DJSng-Toolkit/Toolbox) | 🔃 | ~10% | Mods and tools for various video games, with a wiki on the side for notes. |
 
 ## Side Projects
 Some projects on the side that has nothing to do with Toolkit's main goal of being a resource of stuff.
@@ -52,7 +52,7 @@ Some projects on the side that has nothing to do with Toolkit's main goal of bei
 
 # Licenses
 The majority of Toolkit's resources are available under Unlicense, which you can read more about [here](LICENSE).  
-The only exception to this rule is [Toolkit](https://github.com/DJSng-Toolkit/Toolkit)), which is licensed under the MIT license.
+The only exception to this rule is [Toolkit](https://github.com/DJSng-Toolkit/Toolbox)), which is licensed under the MIT license.
 You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).    
 
 Toolkit also includes assets from the following software:  
