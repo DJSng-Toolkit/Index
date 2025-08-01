@@ -1,5 +1,4 @@
-# DJSng's Toolkit -- By a casual, for casuals
-### A bundle of resources for various types of games and software.
+# TOOLKIT HAS MOVED. IT CAN NOW BE FOUND [HERE](https://djsng-toolkit.github.io/)
 
 > [!WARNING]
 > DJSng's Toolkit is in very early development by a one man team. It may lack information or need corrections.
