@@ -7,18 +7,16 @@
 > By using this resource, you accept that you're using anything featured here at your own risk.  
 > If you'd like to show support, check out DJSng's [personal blog](https://djsng.bearblog.dev/)!
 
-DJSng's Toolkit is a personal library of resources for various topics created by DJSng, intended to provide casual internet browsers with many resources. It is very similar to (and inspired by) many projects and community made resources, including:
+DJSng's Toolkit is a collection of resources I have compiled over the years, mainly built from personal experience. It mainly focuses on video game and software, and was inspired by some "awesome" lists on GitHub. The name of the project comes from a private, vanilla compatible Minecraft modpack I created to share with friends.
+
+This bundle of resources is inspired by many projects and community made resources, including:
 * Various Neocities users' Resource Pages
 * FREEMEDIAHECKYEAH
 * TheUsefulLists
 * "Awesome" list projects on GitHub
 * ...and many more!
-
-DJSng's Toolkit (named after a private vanilla modpack started by the founder months prior) is an GitHub organization that hosts resources curated by [DJSng](https://djsng.neocities.org) as a personal library of resources they've collected over the years. This organization is meant to host resources and other DJSng's Toolkit related projects, including the self-named "Toolkit" project.
-
-# Browse the archives
-
-## Guide
+* 
+# Guide
 | Icon | Meaning |
 | --- | :---: |
 | 🔃 | Actively maintained |
@@ -27,16 +25,25 @@ DJSng's Toolkit (named after a private vanilla modpack started by the founder mo
 | 🚧 | Very early WIP |
 | ❌ | Not started |
 
-## Resources
+# Resources
+
+## Browse the Resources
+Okay, here's the main page.
+
+If you just want my personal list of resources, check out Jericho's Library. If you came for game resources, Toolbox is likely what you want.
+
+
 | Page | St. | % | Description |
 | ------ | --- | --- | --- |
-| [Jericho's Library](https://github.com/DJSng-Toolkit/the-library) | 🔃 | ~20% | A replacement for #resources, inspired by resources compiled by NeoCities users. |
-| [Toolkit](https://github.com/DJSng-Toolkit/Toolkit) | 🔃 | ~10% | A bundle of resources for gamers, focused on modding. Very active. |
+| [Jericho's Library](https://github.com/DJSng-Toolkit/the-library) | 🔃 | ~20% | A list of resources I have compiled over the years. Originally featured on my Neocities and SpaceHey. |
+| [Toolbox](https://github.com/DJSng-Toolkit/Toolkit) | 🔃 | ~10% | Mods and tools for various video games, with a wiki on the side for notes. |
 
 ## Side Projects
+Some projects on the side that has nothing to do with Toolkit's main goal of being a resource of stuff.
+
 | Page | St. | Description |
 | ------ | --- | --- |
-| [DJSng's Tips](https://github.com/DJSng-Toolkit/Tips) | 🔃 | An addon for Darkhax's "Tips", based on DJSng trivia. |
+| [DJSng's Tips](https://github.com/DJSng-Toolkit/Tips) | 🔃 | An addon for Darkhax's "Tips", mainly as an inside joke between some friends. |
 
 # As featured on...
 - **07/31/25**&nbsp; [**Ivyswell Tavern - Resources**](https://ivyswell-tavern.neocities.org/resources)  
